@@ -11,11 +11,10 @@ I'm a **full-stack developer** and **computer science student** at the **City Un
 ### ⚡ Fun Facts  
 - 🏋️‍♂️ I’ve been **strength training for 4+ years** and love **soccer**.  
 - 🎬 Big fan of **movies like Whiplash** and anything with a great story.  
-- 🖥️ I enjoy **building, fixing, and optimizing computers** in my free time.  
+
 
 <br />
 
 <a href="https://www.linkedin.com/in/eric-zwierzynski/">
-  <img src="https://img.shields.io/badge/portfolio-38BDF8?style=for-the-badge&labelColor=38BDF8" height="25">
+  <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&labelColor=0077B5" height="25">
 </a>
-
