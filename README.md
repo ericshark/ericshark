@@ -12,7 +12,7 @@ I'm a **full-stack developer** and **computer science student** at the **City Un
 - 🏋️‍♂️ I’ve been **strength training for 4+ years** and love **soccer**.  
 - 🎬 Big fan of **movies like Whiplash** and anything with a great story.  
 
-
+### 📬 Let's Connect!  
 <br />
 
 <a href="https://www.linkedin.com/in/eric-zwierzynski/">
