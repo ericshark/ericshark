@@ -1,9 +1,7 @@
 ## 👋 Hi, I'm Eric!
 I'm a **Software Engineer** and a **computer science graduate** from the **City University of New York – College of Staten Island**. My journey into tech started when I built my first computer in high school, and since then, I've been passionate about **software development, problem-solving, and system design**.  
 
-### ⚡ Fun Facts  
-- 🏋️‍♂️ I’ve been **strength training for 4+ years** and love **soccer**.  
-- 🎬 Big fan of **movies like Whiplash** and anything with a great story.  
+
 
 ### 📬 Let's Connect!  
 <br />
