@@ -1,10 +1,14 @@
 ## 👋 Hi, I'm Eric!
-I'm a **Software Engineer** and a **computer science graduate** from the **City University of New York – College of Staten Island**. My journey into tech started when I built my first computer in high school, and since then, I've been passionate about **software development, problem-solving, and system design**.  
 
+I'm a **Software Engineer** and **Computer Science graduate** from the **City University of New York – College of Staten Island**.
 
+I enjoy building **full-stack and backend systems**, with a focus on APIs, infrastructure, system design, and increasingly **AI-powered applications and agents**.
 
-### 📬 Let's Connect!  
-<br />
+I'm especially interested in understanding how real software systems work end-to-end — from the frontend and APIs to databases, infrastructure, deployment, and AI tooling.
+
+Currently, I'm building projects that deepen my engineering skills while solving real problems.
+
+### 📬 Let's Connect
 
 <a href="https://www.linkedin.com/in/eric-zwierzynski/">
   <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&labelColor=0077B5" height="25">
