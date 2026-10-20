@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Eric!
 
-I'm a **Software Engineer** and **Computer Science graduate** from the **City University of New York – College of Staten Island**.
+I'm a **Full Stack Engineer** recently focusing on **AI Applications** and a **Computer Science graduate** from the **City University of New York – College of Staten Island**.
 
 ### 📬 Let's Connect
 
